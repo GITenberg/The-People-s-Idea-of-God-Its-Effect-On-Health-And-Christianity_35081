@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1203
     wikipedia: http://en.wikipedia.org/wiki/Mary_Baker_Eddy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35081#The-People-s-Idea-of-God-Its-Effect-On-Health-And-Christianity
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2011-01-26'
 gutenberg_type: Text
